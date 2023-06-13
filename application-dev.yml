@@ -1,8 +1,8 @@
 spring:
   application:
     name: config-dev
-    
- eureka:
+
+eureka:
   instance:
     hostname: localhost
     prefer-ip-address: true
